@@ -1,5 +1,5 @@
 module.exports = {
-  base: '/erabbit-client-pc-document/',
+  base: '/v3-xiaotuxian-vuepress/',
   title: '小兔鲜儿',
   description: '小兔鲜儿PC前台-开发文档',
   // theme: 'antdocs',
