@@ -20,4 +20,4 @@ footer: MIT Licensed | Copyright © 2021-present Allen Zhou
 ![npm](https://img.shields.io/npm/v/n)
 ![npm (tag)](https://img.shields.io/npm/v/vue/next?color=green&label=vue)
 
-> [演示地址](http://erabbit.itheima.net/#/)
+> [演示地址](https://youruilin.github.io/erabbit-web-front/#/product/1369155859933827074)
